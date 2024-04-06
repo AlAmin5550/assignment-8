@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1",
+      "review": "A poignant portrayal of the Jazz Age and the American Dream.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-9aUPZqp9sr_o3ymlvv01uU4RMGnqdXQZHahlPofwQ&s",
+      "review": "An enduring classic that explores themes of racism and morality.",
+      "totalPages": 336,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Social Issues"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4557793312907.5e6139cf2b2b6.jpg",
+      "review": "A chilling dystopian novel that remains relevant today.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHV7f0lIOirGM8oyzmsA91U58PF3KNNq26B-oxuohG0g&s",
+      "review": "An iconic coming-of-age novel that captures teenage angst.",
+      "totalPages": 224,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Literary"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLW81hGc6caCppckVlsQ1mvIhBk_AD-dJwJLqIchxEWg&s",
+      "review": "A delightful adventure set in Middle-earth.",
+      "totalPages": 310,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Epic"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 6,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmZfCPaTy9OoJF8oEa5ksrsz3a2WQG2pHhj1tQVEsgOA&s",
+      "review": "A timeless romance with sharp social commentary.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Romance", "Classic"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    }
+  ]

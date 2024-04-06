@@ -1,10 +1,11 @@
 import { Outlet } from "react-router-dom";
+import Header from "../Header/Header";
 
 
 const Root = () => {
     return (
-        <div>
-            <h1>This is root </h1>
+        <div className="max-w-6xl  mx-auto ">
+            <Header></Header>
             <Outlet></Outlet>
         </div>
     );
